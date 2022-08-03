@@ -59,3 +59,32 @@ El trofeo no cabe en la caja porque es muy pequeña
 ### Aportes alumnos
 
 [Un recurso para entender ESTADÍSTICA DE LOS CORPUS TEXTUALES](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2079-312X2017000100121)
+
+## Conceptos básicos de NLP
+
+Veremos estructuras básicas del lenguaje humano.
+
+[Manning & Schütze (1999), Foundations of Statistical, Natural Language Processing](https://libgen.lc/ads.php?md5=e0fd4c5eae1bfbb749661e8d043656a3)
+
+**NLP**: El procesamiento de lenguaje natural esta más enfocado hacia aplicaciones practicas en la ingeniería
+
+**LC** : La lingüística computacional estudia el lenguaje desde una perspectiva más científica. (Basada en crear modelos que pueden tener dos enfoques de conocimiento o datos). Tiene dos enfoques:
+
+- Enfoque basado conocimiento
+- Enfoque basado en datos
+
+El procesamiento de una cadena de texto, el proceso de procesamiento de texto consiste en realizar una **Normalización** del texto que incluye los siguientes procesos:
+
+- Tokenización: Separar en palabras toda la cadena de texto, separa las palabras en tokens o unidades minimas linguisticas las cuales ser cada una de sus palabras.
+
+- Lematización: Convertir cada una de las palabras o tokens o frases de una cadena de texto a su **raiz fundamental**, en el caso de un verbo seria transformarlo a su forma sin conjugar dejandolo en infinitivo.
+
+- Segmentación: Separación en frases, puede ser en base las comas pero no siempre se aplica esto y no es tan sencillo.
+
+Funel basico de procesamiento de texto lo cual es la Nomalización de texto.
+
+Este proceso anterior, queremos aplicarlo a muchas cadenas de texto, el cual llamamos corpus. Un conjunto de corpus se llama corpora.
+
+**CORPUS**: Colección de muchos textos
+
+**CORPORA**: Colección de CORPUS, Colección de de collecciones de textos

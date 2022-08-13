@@ -88,3 +88,6 @@ Este proceso anterior, queremos aplicarlo a muchas cadenas de texto, el cual lla
 **CORPUS**: Colección de muchos textos
 
 **CORPORA**: Colección de CORPUS, Colección de de collecciones de textos
+
+## Configurar ambiente de trabajo
+

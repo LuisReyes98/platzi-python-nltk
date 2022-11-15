@@ -91,3 +91,24 @@ Este proceso anterior, queremos aplicarlo a muchas cadenas de texto, el cual lla
 
 ## Configurar ambiente de trabajo
 
+## N-gramas y Colocaciones del lenguaje
+
+¿Qué es un n-grama?
+
+Es una secuencia de n palabras
+
+![bigramas](./images/bigramas.png)
+
+![trigramas](./images/trigramas.png)
+
+  "Las colocaciones de una palabra son sentencias que indican los lugares que acostumbra a tomar esa palabra en el lenguaje (sin seguir las reglas del lenguaje)..."
+
+- Firth(1957), Modes in Meaning - Paper in Linguistics
+
+- [Collocations](https://en.wikipedia.org/wiki/Collocation)
+
+![colocaciones](./images/colocaciones.png)
+
+A pesar de que ambas no son gramaticalmente correctas, la segunda es suena menos natural y suena incorrecta.
+
+del mismo modo "ventilar secretos" es correcto pero por colocaciones culturales ya que literalmente no se puede "ventilar secretos" y es el hecho de los dichos que dependen de culturas que hacen tan dificil el analisis de textos.

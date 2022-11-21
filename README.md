@@ -112,3 +112,5 @@ Es una secuencia de n palabras
 A pesar de que ambas no son gramaticalmente correctas, la segunda es suena menos natural y suena incorrecta.
 
 del mismo modo "ventilar secretos" es correcto pero por colocaciones culturales ya que literalmente no se puede "ventilar secretos" y es el hecho de los dichos que dependen de culturas que hacen tan dificil el analisis de textos.
+
+Una colocacion es un conjunto de palabras

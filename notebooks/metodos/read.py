@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import nltk
 from nltk.tokenize import word_tokenize
 
+
 def get_text(file):
     """Reads a file and returns the text,
     stripping HTML tags and white space.
